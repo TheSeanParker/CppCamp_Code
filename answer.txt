@@ -1,1 +1,0 @@
-https://stackoverflow.com/questions/56517207/implementing-pimpl-based-wrapper-around-a-class-using-variadic-template-function
